@@ -34,3 +34,6 @@ Enter a complete URL, including http:// or https://.
 - Follows redirects and examines the final response.
 - HSTS is only effective when received over HTTPS.
 - This is a learning project, not a complete security scanner.
+
+# headercheck
+Python CLI tool for inspecting HTTP security headers
